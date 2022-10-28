@@ -1,0 +1,25 @@
+public class AreaCircle
+
+{
+
+public static void main (String args[])
+
+{
+
+float radius;
+
+float circumfrances, area;
+
+radius=5;
+
+area=3.14f*radius*radius;
+
+circumfrances=2*3.14f*radius;
+
+System.out.println("Area of circle is : " + area);
+
+System.out.println("Circumfrances of circle is : " + circumfrances);
+
+}
+
+}
